@@ -22,3 +22,17 @@ Task #2 [Solution](./Lab_2/2.ASM)
 
 Task #1 [Solution](./Lab_3/1.ASM)
 Task #2 [Solution](./Lab_3/2.ASM)
+
+
+## Lab work 4
+
+[Tasks Description](./Lab_4/ex.md)
+
+Task #1 [Solution](./Lab_4/1.ASM)
+Task #2 [Solution](./Lab_4/2.ASM)
+
+
+## Lab work 5
+
+Task #1 [Solution](./Lab_5/1.ASM)
+Task #2 [Solution](./Lab_5/2.ASM)
